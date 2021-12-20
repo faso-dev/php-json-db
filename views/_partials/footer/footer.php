@@ -4,13 +4,15 @@
             <h2>Restons en contact</h2>
             <ul class="contacts">
                 <li>
-                    <i class="icon phone"></i>
-                    Contactez-nous
+                    <a href="https://onass.herokuapp.com/fr/#contact-section">
+                        <i class="icon phone"></i>
+                        Contactez-nous
+                    </a>
                 </li>
                 <li>
-                    <a href="">
+                    <a href="https://onass.herokuapp.com">
                         <i class="icon website"></i>
-                        www.uqtr.ca
+                        ONASS
                     </a>
                 </li>
             </ul>

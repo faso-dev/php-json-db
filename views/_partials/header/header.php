@@ -4,7 +4,7 @@
             <a
                     target="_blank"
                     class="navbar-brand"
-                    href="https://www.uqtr.ca/">UQTR</a>
+                    href="https://onass.herokuapp.com">ONASS</a>
             <div class="collapse navbar-content" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item <?= make_active('home') ?>">
